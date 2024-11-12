@@ -23,7 +23,7 @@ menu:
       weight: 2
 params:
   color: "#4f46e5"
-  copyright: "Copyright @copy; 2024 Acme Corporation. All rights reserved"
+  copyright: "Copyright &copy; 2024 Acme Corporation. All rights reserved"
   footer:
     - title: About
       content: >
